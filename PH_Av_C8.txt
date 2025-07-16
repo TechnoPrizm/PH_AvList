@@ -2,9 +2,9 @@ Outdated
 avtr_ed797a9e-56e1-4c94-b71b-b40ed463da03 - Ana | Bastet (PAGE 1 ROW 1)
 avtr_43065775-a4ff-429c-aadc-1e82cd4b1983 - Echo | Stealth
 avtr_cf0470c1-93dd-4a17-8b73-f8ba0a59efe9 - ForestSpirit | Chibi
+avtr_28646d1e-5749-440e-bb81-ed3e522ab18d - Orisa | ForestSpirit
 avtr_43563cdb-e7c0-43c4-9c24-33beee4a2e06 - OR14 | GiftWrap
 avtr_ebf0d05d-a367-4503-b672-fb8e10e54eb2 - OR14 | Defense Matrix
-avtr_cc73a102-abd0-4ba0-861c-aafe9f765467 - Hanzo | Casual
 avtr_b91ca736-e5ce-4870-b555-064b1ef10995 - B.O.B. | Posh
 avtr_b1a3a11d-e78e-441b-b1a6-560cff32bb3f - B.O.B. | Thorn
 avtr_082b9687-d9ff-41fa-b728-5b1a38f47c89 - B.O.B. | Gangster
@@ -19,3 +19,4 @@ avtr_082f0656-dcd0-4863-a86c-f9a4a58e334d - Bastion | Gift
 avtr_ca27c824-82eb-4467-9693-ff93b9ee9053 - Bastion | Defense Matrix
 avtr_3ba301a9-842f-4e0d-98f6-2aa348150be4 - Bastion | Null Sector
 avtr_3f5ec561-d352-467e-a0a0-4ffae63cb25d - Bastion | Lego
+avtr_cc73a102-abd0-4ba0-861c-aafe9f765467 - Hanzo | Casual
