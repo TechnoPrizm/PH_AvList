@@ -1,2 +1,19 @@
 Camera Avatars
-avtr_a79ba892-4366-4d8b-960e-43713d738806
+avtr_deb2e4f6-69e4-4132-a48a-6040d1f2e71a - Kodak | Red (PAGE 1 ROW 1)
+avtr_d5907282-cb7a-498b-a2bf-6808be377dd7 - Kodak | Orange
+avtr_867aeb50-16e3-45f4-8178-6b0525abc421 - Kodak | Yellow
+avtr_280892ed-5762-4c92-ac00-7fbd8c5ab2d7 - Kodak | Green
+avtr_a0c15166-ddf9-4ff6-985e-2294376457fd - Kodak | Aqua
+avtr_8403ed16-ce02-4dce-8386-d0a7f4dca765 - Kodak | Blue
+avtr_7e16ae3b-c596-46db-9b73-0562dbfcf723 - Kodak | Purple
+avtr_a3941b8e-d686-411c-8b93-c6eacf1174f1 - Kodak | Pink
+avtr_4ba51d83-e4bd-4f2a-ad0f-9daf2759cf66 - Kodak | White
+blank
+blank
+blank
+avtr_298df159-d4a9-4d75-ae32-64a3cb829d50 - Kodak | Rainbow (PAGE 1 ROW 2)
+avtr_b5171dac-b823-471b-abf5-f00e1e60f7e9 - Kodak | Gold
+avtr_a4bcd720-c117-4c24-80d1-af1bcae79fc2 - Kodak | Camo
+avtr_5451c448-0517-4778-a0bc-34f874487f78 - Kodak | Summer
+avtr_e4b1a48d-9c3d-4a35-b809-a752c8dd6377 - Kodak | Clover
+avtr_d74fafa7-1253-4e12-9057-56c1e24e270f - Kodak | Error
