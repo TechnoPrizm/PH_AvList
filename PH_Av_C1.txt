@@ -1,5 +1,5 @@
 Overwatch
-avtr_d6c26221-d62c-44fb-b56b-6e038e9b4974 - NullTrooper | Uprising (PAGE 1)
+avtr_d6c26221-d62c-44fb-b56b-6e038e9b4974 - NullTrooper | Uprising (PAGE 1 ROW 1)
 avtr_3f0dda1e-2c40-4e00-bf15-080694995287 - Eradicator | Uprising
 avtr_47aa75ba-ef8d-489f-8dd4-64293358a5c8 - NullTrooper | Invasion
 avtr_0c3cac25-b919-43c8-a00f-e322f4cad8a1 - JumpJet | Invasion
@@ -11,7 +11,7 @@ avtr_2f4b9640-9a08-4a31-8047-ac04cb9e53cc - Trooper | Talon
 avtr_94468b21-6d8c-406e-b366-4d408f416305 - Enforcer | Talon
 avtr_82599949-9458-4f5c-b40c-de6e9c0581ec - Heavy Assault | Talon
 blank
-avtr_5de81866-6aab-4f88-9e55-27e56baca579 - Slicer | Uprising
+avtr_5de81866-6aab-4f88-9e55-27e56baca579 - Slicer | Uprising (PAGE 1 ROW 2)
 avtr_b9d333b5-3df0-4350-a0d9-b8f1170391c0 - Detonator | Uprising
 avtr_c53dedad-03ee-4490-8e37-0138b8e7bc5b - Slicer | Invasion
 avtr_5d1ff414-7d66-4979-8a08-df064062744f - Breacher | Invasion
@@ -23,7 +23,7 @@ avtr_da6998dc-3bfd-4c21-ac8f-b81774a3b6c3 - Sniper | Talon
 avtr_d34679e9-0805-4ab2-a281-9eb63efca0de - Assassin | Talon
 avtr_029e9345-d064-4dbc-ab3c-95f34f485e2c - Sigma | Talon
 blank
-avtr_aad2c3b3-19e7-4ff5-86ff-398da62493af - Omnic | Generic (PAGE 2)
+avtr_aad2c3b3-19e7-4ff5-86ff-398da62493af - Omnic | Generic (PAGE 2 ROW 1)
 avtr_60f315f3-7a80-4533-9238-d8604c619273 - Omnic | Butler
 avtr_a01b7851-2d15-4172-b0bd-b16dd6d15442 - Luna | Omnic
 avtr_9e7cc26d-fac6-4557-8dcb-0e4e0a338254 - Omnic | Gondolier
@@ -33,3 +33,15 @@ avtr_43065775-a4ff-429c-aadc-1e82cd4b1983 - Echo | Stealth
 avtr_d84e2cb6-2eaf-4961-a561-d093676b19c3 - Orisa | OR15
 avtr_c9acdef1-8189-4005-9d16-f97ea7292013 - Orisa | Null Sector
 avtr_5b3491ee-4c8b-4b69-98fd-6b32990f6cbe - Orisa | OR14
+avtr_a22767fd-3739-4786-8967-295a4e7250aa - B.O.B. | Classic
+avtr_7c6c04bc-0dfa-4fdc-b83a-562164862fd6 - B.O.B. | Socialite
+avtr_25e8584c-a8b7-47ba-83ce-0cc4b4f80428 - Civilian | Omnic (PAGE 2 ROW 2)
+avtr_360c5586-d230-48a0-963f-a1d74de8729a - Reggie | Omnic
+avtr_3558e51b-3062-41f1-9062-225af165470a - Claire | Omnic
+avtr_e8554283-38ed-476f-b6d3-d3a90d6ebbff - Zenyatta | Fastball
+avtr_9d1e95fa-0adb-4b95-afbf-8132e815cedc - Zenyatta | Nutcracker
+avtr_c46ef803-8f37-444d-bb8c-23db313ff54d - Zombadier | Classic
+avtr_4c943bbe-ba0a-4861-aef2-b2f4979857a6 - Bastion | Classic
+avtr_91636eb4-ea23-47cf-9238-d93c4a7078bd - Bastion | Brick
+avtr_9abee26f-838d-43fa-ae8c-43d1ed20357e - B.O.B. | Gangster
+avtr_1537cb3c-54e7-4647-871d-011d6981618a - B.O.B. | Jungle
