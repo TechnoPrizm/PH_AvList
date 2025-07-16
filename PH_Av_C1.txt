@@ -26,3 +26,10 @@ blank
 avtr_aad2c3b3-19e7-4ff5-86ff-398da62493af - Omnic | Generic (PAGE 2)
 avtr_60f315f3-7a80-4533-9238-d8604c619273 - Omnic | Butler
 avtr_a01b7851-2d15-4172-b0bd-b16dd6d15442 - Luna | Omnic
+avtr_9e7cc26d-fac6-4557-8dcb-0e4e0a338254 - Omnic | Gondolier
+avtr_b438c313-331e-48ff-9092-d59a31a27aca - Zenyatta | Cultist
+avtr_e976fa57-c213-4a00-8567-6b10a2325d37 - Zomnic | Classic
+avtr_43065775-a4ff-429c-aadc-1e82cd4b1983 - Echo | Stealth
+avtr_d84e2cb6-2eaf-4961-a561-d093676b19c3 - Orisa | OR15
+avtr_c9acdef1-8189-4005-9d16-f97ea7292013 - Orisa | Null Sector
+avtr_5b3491ee-4c8b-4b69-98fd-6b32990f6cbe - Orisa | OR14
