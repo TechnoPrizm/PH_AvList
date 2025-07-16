@@ -1,2 +1,16 @@
 Source
-avtr_a79ba892-4366-4d8b-960e-43713d738806
+avtr_0b6a143d-0fa0-41bc-aa97-a1a39a7b75e3 - Scientist | Half-Life (PAGE 1 ROW 1)
+avtr_2b704524-51a3-4046-9003-4781fa995390 - HeadCrab | Half-Life 2
+avtr_1ee1a60d-0234-4f99-bc27-d10ca179f70b - Poison HeadCrab | Half-Life 2
+avtr_18d1f1c0-cf90-435f-9d38-38ab64374613 - Hunter | Half-Life 2
+blank
+blank
+blank
+blank
+blank
+blank
+blank
+blank
+avtr_bfd00209-34d5-4746-ba5b-822a3263b94e - Barney | Half-Life (PAGE 1 ROW 2)
+avtr_ebaa806b-0634-4396-a7d8-bab95b70a6e6 - Fast HeadCrab | Half-Life 2
+avtr_a1611135-8ad2-4211-9c0b-b7adaac25cf3 - Strider | Half-Life 2
