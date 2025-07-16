@@ -42,3 +42,22 @@ avtr_6d7db3e5-a883-4afe-8183-19bd25e6f6d3 - Horseless Headless Horseman | Defaul
 avtr_ab0bc1df-7a20-4d36-b7ce-6fc527819fcc - Monoculus | Default
 avtr_a07014bd-c412-4daf-aee3-ecd5f92856b4 - Merasmus | Default
 avtr_fce76852-55f2-4ff9-9f38-b9abb1e8987f - Skeleton | Default
+blank
+blank
+blank
+blank
+blank
+avtr_d81c69a4-ee91-4685-8672-2a022ce99a31 - Smoker | L4D2 (PAGE 3 ROW 1)
+avtr_602785ab-0eb0-4d62-a737-94a686d3bbc6 - Witch | L4D1
+avtr_baa7866c-2812-403c-95ad-56c626c1d4be - Tank | L4D1
+blank
+blank
+blank
+blank
+blank
+blank
+blank
+blank
+blank
+avtr_652085ac-985c-4aa2-90f3-33c62584f60a - Charger | L4D2 (PAGE 3 ROW 2)
+avtr_91d62ebe-405c-446a-9830-bbcc4db99c1b - Jockey | L4D2
