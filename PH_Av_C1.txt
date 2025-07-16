@@ -15,3 +15,14 @@ avtr_5de81866-6aab-4f88-9e55-27e56baca579 - Slicer | Uprising
 avtr_b9d333b5-3df0-4350-a0d9-b8f1170391c0 - Detonator | Uprising
 avtr_c53dedad-03ee-4490-8e37-0138b8e7bc5b - Slicer | Invasion
 avtr_5d1ff414-7d66-4979-8a08-df064062744f - Breacher | Invasion
+avtr_51d40f7e-855b-4005-9fb8-ec06f52a1f90 - Sheilder | Invasion
+avtr_60fd9fd0-f4ba-4ab2-8615-ee0351b68f20 - Subjugator | Invasion
+avtr_6f7e6fec-4390-42ab-a0d3-ce613c7b5a1f - Vulture | Invasion
+avtr_8f964a49-972d-404f-a791-5f4e05b801f2 - Flyer | Invasion
+avtr_da6998dc-3bfd-4c21-ac8f-b81774a3b6c3 - Sniper | Talon
+avtr_d34679e9-0805-4ab2-a281-9eb63efca0de - Assassin | Talon
+avtr_029e9345-d064-4dbc-ab3c-95f34f485e2c - Sigma | Talon
+blank
+avtr_aad2c3b3-19e7-4ff5-86ff-398da62493af - Omnic | Generic (PAGE 2)
+avtr_60f315f3-7a80-4533-9238-d8604c619273 - Omnic | Butler
+avtr_a01b7851-2d15-4172-b0bd-b16dd6d15442 - Luna | Omnic
