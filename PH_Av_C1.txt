@@ -1,5 +1,17 @@
 Overwatch
-avtr_d6c26221-d62c-44fb-b56b-6e038e9b4974 - NullTrooper | Uprising
+avtr_d6c26221-d62c-44fb-b56b-6e038e9b4974 - NullTrooper | Uprising (PAGE 1)
 avtr_3f0dda1e-2c40-4e00-bf15-080694995287 - Eradicator | Uprising
 avtr_47aa75ba-ef8d-489f-8dd4-64293358a5c8 - NullTrooper | Invasion
 avtr_0c3cac25-b919-43c8-a00f-e322f4cad8a1 - JumpJet | Invasion
+avtr_da1ddbba-b065-45f4-bfce-931d97c6fd4f - Charger | Invasion
+avtr_4164fc3b-dc8f-44b7-9a46-f09f1fe56a40 - Stalker | Invasion
+avtr_65f32a6a-b873-48b5-ae95-fa1e64e1ee02 - Artillery | Invasion
+avtr_ccbff878-d409-48a2-aa38-9bbaf05af0fa - Titan | Invasion
+avtr_2f4b9640-9a08-4a31-8047-ac04cb9e53cc - Trooper | Talon
+avtr_94468b21-6d8c-406e-b366-4d408f416305 - Enforcer | Talon
+avtr_82599949-9458-4f5c-b40c-de6e9c0581ec - Heavy Assault | Talon
+blank
+avtr_5de81866-6aab-4f88-9e55-27e56baca579 - Slicer | Uprising
+avtr_b9d333b5-3df0-4350-a0d9-b8f1170391c0 - Detonator | Uprising
+avtr_c53dedad-03ee-4490-8e37-0138b8e7bc5b - Slicer | Invasion
+avtr_5d1ff414-7d66-4979-8a08-df064062744f - Breacher | Invasion
