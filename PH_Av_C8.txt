@@ -28,7 +28,7 @@ avtr_c747209c-3a02-424e-8fff-2c43a879a13b - Vortigaunt | Classic
 avtr_99bae57d-9748-40ef-8e4c-0eac4fca5496 - Zombie | Classic
 avtr_e11ddd63-63a5-4f70-a0da-b57ea1226e15 - Zombie | Zookeeper
 avtr_de007c2f-795e-4dc1-827e-27142dd0dbc0 - Zombie | Overalls
-blank
+avtr_e3f834ce-1bc7-426f-b1be-c38cd3e42250 - Jeff | Jeff
 blank
 blank
 blank
@@ -40,4 +40,3 @@ avtr_8c997e16-7452-4c9c-a46f-87da5a091d26 - Vortigaunt | Tunnels
 avtr_324a7017-ed60-4bf7-8def-066c58319225 - Zombie | Zombine
 avtr_04037cbe-5453-40a2-8664-f3c95633345c - Zombie | Security
 avtr_1f73cbcf-b1a4-4731-ad25-73307a076577 - Zombie | Worker
-avtr_e3f834ce-1bc7-426f-b1be-c38cd3e42250 - Jeff | Jeff
