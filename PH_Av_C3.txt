@@ -23,5 +23,4 @@ avtr_72680f93-9a9b-4cf1-9ed4-82c0d696c4e6 - Songbird | Bioshock Infinite
 avtr_ef9f621e-7e34-42bc-a309-8062d77799f9 - Big Daddy | Rosie
 avtr_e7d564b6-7032-4179-adf2-580640e96b5c - Big Daddy | Alpha
 avtr_476f3be0-ac41-4c44-8d66-0d0ebd68d71d - Big Daddy | Lancer
-blank
 avtr_07813a9b-3fe7-4095-8dc0-6744b3eab689 - MrBones | Grounded (PAGE 2 ROW 1)
