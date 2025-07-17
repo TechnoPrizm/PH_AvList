@@ -20,3 +20,24 @@ avtr_ca27c824-82eb-4467-9693-ff93b9ee9053 - Bastion | Defense Matrix
 avtr_3ba301a9-842f-4e0d-98f6-2aa348150be4 - Bastion | Null Sector
 avtr_3f5ec561-d352-467e-a0a0-4ffae63cb25d - Bastion | Lego
 avtr_cc73a102-abd0-4ba0-861c-aafe9f765467 - Hanzo | Casual
+avtr_2b3de57f-7b97-4635-a777-fea817c04749 - Gordon | Suit
+avtr_90fd96f8-330a-455a-9ce4-7891d7468af1 - Gordon | Citizen
+avtr_6e9eede2-8ce7-4a66-9a6f-119864ca7017 - Headcrab | Classic
+avtr_89ced844-08c2-46e3-b87d-abd9a5780ed3 - Combine | MetroCop (PAGE 2 ROW 1)
+avtr_c747209c-3a02-424e-8fff-2c43a879a13b - Vortigaunt | Classic
+avtr_99bae57d-9748-40ef-8e4c-0eac4fca5496 - Zombie | Classic
+avtr_e11ddd63-63a5-4f70-a0da-b57ea1226e15 - Zombie | Zookeeper
+avtr_de007c2f-795e-4dc1-827e-27142dd0dbc0 - Zombie | Overalls
+blank
+blank
+blank
+blank
+blank
+blank
+blank
+avtr_d5ce5dde-e4e7-40b1-a536-f1ac94cbd0f1 - Combine | Advisor (PAGE 2 ROW 2)
+avtr_8c997e16-7452-4c9c-a46f-87da5a091d26 - Vortigaunt | Tunnels
+avtr_324a7017-ed60-4bf7-8def-066c58319225 - Zombie | Zombine
+avtr_04037cbe-5453-40a2-8664-f3c95633345c - Zombie | Security
+avtr_1f73cbcf-b1a4-4731-ad25-73307a076577 - Zombie | Worker
+avtr_e3f834ce-1bc7-426f-b1be-c38cd3e42250 - Jeff | Jeff
