@@ -10,7 +10,7 @@ avtr_7ab843cb-803a-4cc1-9a3d-8e5f082e11ca - Droid | Stray
 avtr_702f8c22-a225-4d27-b0bc-5843ff015d6f - Big Daddy | Bouncer
 avtr_48da1b53-da36-4a79-96de-15295d4f8717 - Big Daddy | Rumbler
 avtr_efd013fe-08c4-4e27-9952-8a56e2a28012 - Big Sister | Common
-blank
+avtr_72680f93-9a9b-4cf1-9ed4-82c0d696c4e6 - Songbird | Bioshock Infinite
 avtr_5cee0b04-579b-42b1-996a-911d9c9f7753 - Kevin | Fortnite
 avtr_ce2bf9a0-3823-4e0c-9d92-f308dd86efb5 - Lok | Fortnite
 avtr_cc36934e-9b09-4e32-a6b3-526cb25e10d4 - HeartBreaker | Fortnite
