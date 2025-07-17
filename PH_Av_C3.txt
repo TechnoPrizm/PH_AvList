@@ -3,15 +3,22 @@ avtr_baa18dcb-63da-49f6-87fd-92160e102e30 - Ray | Fortnite (PAGE 1 ROW 1)
 avtr_8e51f060-c2fc-4775-a4bd-d26666055c9d - Pop | Fortnite
 avtr_77aca63a-031a-4b3c-a409-1ab7d3692f20 - MechaPop | Fortnite
 avtr_8610c552-9660-4859-800d-f48ae3218876 - DriftWalker | Fortnite
-blank
-blank
-blank
-blank
-blank
-blank
-blank
+avtr_8cd8968e-28a2-48ed-a30c-f4f087721c12 - Biped Bot | Robo Recall
+avtr_8447259d-66fc-496d-a3e7-ea7aa089778d - Fast Bot | Robo Recall
+avtr_415ad4ef-b685-4f8f-8f89-6c5c2bebd8e3 - Cat | Stray
+avtr_7ab843cb-803a-4cc1-9a3d-8e5f082e11ca - Droid | Stray
+avtr_702f8c22-a225-4d27-b0bc-5843ff015d6f - Big Daddy | Bouncer
+avtr_48da1b53-da36-4a79-96de-15295d4f8717 - Big Daddy | Rumbler
+avtr_efd013fe-08c4-4e27-9952-8a56e2a28012 - Big Sister | Common
 blank
 avtr_5cee0b04-579b-42b1-996a-911d9c9f7753 - Kevin | Fortnite
 avtr_ce2bf9a0-3823-4e0c-9d92-f308dd86efb5 - Lok | Fortnite
 avtr_cc36934e-9b09-4e32-a6b3-526cb25e10d4 - HeartBreaker | Fortnite
 avtr_363f0b69-e116-4435-bb50-42e1bd6b7e24 - Thunder | Fortnite
+avtr_47adacce-10cd-4628-ae97-ef3346748d3f - Biped Elite | Robo Recall
+avtr_08aa1569-7d2f-405e-a65a-a8385751373a - Big Bot | Robo Recall
+avtr_3d96913a-9dcb-490c-8ce3-1aa1bed4963f - PeaceMaker | Robo Recall
+avtr_ea65b21f-301d-4615-b6db-8ba708d02141 - Survivor | Default
+avtr_ef9f621e-7e34-42bc-a309-8062d77799f9 - Big Daddy | Rosie
+avtr_e7d564b6-7032-4179-adf2-580640e96b5c - Big Daddy | Alpha
+avtr_476f3be0-ac41-4c44-8d66-0d0ebd68d71d - Big Daddy | Lancer
