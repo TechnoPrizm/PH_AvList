@@ -1,6 +1,6 @@
 Outdated
 avtr_ed797a9e-56e1-4c94-b71b-b40ed463da03 - Ana | Bastet (PAGE 1 ROW 1)
-avtr_43065775-a4ff-429c-aadc-1e82cd4b1983 - Echo | Stealth
+avtr_2d209d54-6849-4cab-b034-5005d39bbf22 - Echo | Camo
 avtr_cf0470c1-93dd-4a17-8b73-f8ba0a59efe9 - ForestSpirit | Chibi
 avtr_28646d1e-5749-440e-bb81-ed3e522ab18d - Orisa | ForestSpirit
 avtr_43563cdb-e7c0-43c4-9c24-33beee4a2e06 - OR14 | GiftWrap
