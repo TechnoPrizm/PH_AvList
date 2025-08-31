@@ -3,8 +3,8 @@ avtr_177ac5a7-7097-4f2d-a567-1bc95f5cc619 - JudgementBoy | Classic (PAGE 1 ROW 1
 avtr_dafdb245-1e13-48ee-a21b-245f4376fb84 - Pink Soldier | Squid Game
 avtr_12a427f2-846c-438f-8e42-3d355940e69d - L.O.G. | Lord Of Games
 avtr_a79ba892-4366-4d8b-960e-43713d738806 - PlayerStart | Node
-blank
-blank
+avtr_9ef21759-3d41-41bc-9391-02153c03798f - Brick Mann | Alaxe
+avtr_a37310a1-b5d3-401b-ae79-b40d13ec597f - The Hole
 blank
 blank
 blank
@@ -15,3 +15,4 @@ avtr_1d1143ad-add6-4f09-b089-656e63f46fa1 - JudgementBoy | Gold (PAGE 1 ROW 2)
 avtr_d7048c86-84b8-403f-9070-96ced8262882 - FrontMan | Squid Game
 avtr_0157bbc5-1184-4ce7-9505-5359af4a610f - DaddyLongLegs | Daddy
 avtr_019e8f5f-c7ee-4687-834b-84fd1d6654f6 - Commentary | Node
+avtr_3c50eda3-a7be-4173-9cde-1312ca53b329 - Car | Garn47
