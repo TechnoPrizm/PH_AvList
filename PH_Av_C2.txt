@@ -1,5 +1,6 @@
 Source Games
 avtr_0b6a143d-0fa0-41bc-aa97-a1a39a7b75e3 - Scientist | Half-Life (PAGE 1 ROW 1)
+avtr_db652e47-8645-4803-8f97-0cf25a8323fe - Roach | Half-Life
 avtr_2b704524-51a3-4046-9003-4781fa995390 - HeadCrab | Half-Life 2
 avtr_1ee1a60d-0234-4f99-bc27-d10ca179f70b - Poison HeadCrab | Half-Life 2
 avtr_18d1f1c0-cf90-435f-9d38-38ab64374613 - Hunter | Half-Life 2
@@ -10,8 +11,8 @@ avtr_5aab5095-4fd1-409e-8b91-53263eec699b - Cores | Portal 1
 avtr_49638c6c-aa6a-461e-88f8-17c488c70fee - Rocket Turret | Portal 1
 avtr_4eaed510-d4ef-45a7-b162-dc9af04a98c2 - Turret | Portal 1
 blank
-blank
 avtr_bfd00209-34d5-4746-ba5b-822a3263b94e - Barney | Half-Life (PAGE 1 ROW 2)
+blank
 avtr_ebaa806b-0634-4396-a7d8-bab95b70a6e6 - Fast HeadCrab | Half-Life 2
 avtr_a1611135-8ad2-4211-9c0b-b7adaac25cf3 - Strider | Half-Life 2
 avtr_f8dd2416-f4bc-4aa2-961f-7296c5ddc4a2 - Bird | Half-Life 2
@@ -20,7 +21,6 @@ avtr_1fff37e8-1934-4ed9-bfc1-b6f043702621 - Bendy | Portal 2
 avtr_98afc0dc-5af5-48ec-a92d-60745ba8ccca - Cores | HandLab
 avtr_06ba1e73-737b-4434-ac98-3c618068cf34 - Cores | Portal 2
 avtr_9dfcb1a6-5f39-47c0-8e2f-314e7a760077 - Rocket Turret | Portal 2
-blank
 blank
 blank
 avtr_07ec9615-9925-4c3c-9983-af7fd4f69c4d - Scout | Robot (PAGE 2 ROW 1)
